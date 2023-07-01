@@ -1,2 +1,2 @@
 # Ayurved-backend
-Backend for Ayurved project which is made with java and spring boot.
+Backend for Ayurved project which is made with java, spring boot & MongoDB
